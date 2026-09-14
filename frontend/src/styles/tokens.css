@@ -1,0 +1,45 @@
+/* 디자인 목업(quizloop-mockups)과 동일한 토큰. 목업 팔레트를 바꾸면 여기도 같이 바꿀 것. */
+:root {
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --ink-muted: #898781;
+
+  --page: #f8f8f6;
+  --surface: #ffffff;
+  --surface-2: #fcfcfb;
+
+  --border: rgba(11, 11, 11, 0.1);
+  --border-strong: rgba(11, 11, 11, 0.18);
+  --gridline: #e7e6e0;
+
+  --brand: #4338ca;
+  --brand-dark: #332a9c;
+  --brand-tint: #eef0fd;
+  --brand-tint-2: #e0e3fa;
+
+  --good: #0ca30c;
+  --good-tint: #e7f6e8;
+  --good-text: #0a7d0a;
+
+  --warning: #e3960a;
+  --warning-tint: #fdf2e0;
+  --warning-text: #a5680a;
+
+  --serious: #d9633a;
+  --serious-tint: #fbe9e2;
+  --serious-text: #b64c26;
+
+  --critical: #d03b3b;
+  --critical-tint: #fbe6e6;
+  --critical-text: #b23434;
+
+  --series-blue: #2a78d6;
+  --series-blue-tint: #e8f1fc;
+
+  --font-sans: "IBM Plex Sans KR", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", monospace;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+}
